@@ -298,10 +298,11 @@ The summary and analysis of the result give some important implications to the p
 - We could allow respondents to choose more than one options for some questions, in order to get more complete information
 
 # Appendices
-The link to our survey:
+## The link to our survey:
+
 https://docs.google.com/forms/d/1XQXlaHRRknBqXOYidlZOn_zdcrYUU2LQliT8r5pMzSg/edit
 
-Screenshots of our survey:
+## Screenshots of our survey:
 
 
 ```{r echo=FALSE}
