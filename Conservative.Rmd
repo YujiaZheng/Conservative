@@ -1,6 +1,6 @@
 ---
 title: "Which Region of Canada and Which Advertising Channel Should the Conservative Party of Canada Focus More On to Boost Up Support?"
-author: "Yujia Zheng & Xi Zhang"
+author: "Group 59: Yujia Zheng 1005329299 & Xi Zhang 1004707784"
 date: 2020-10-06
 output: pdf_document
 ---
@@ -216,7 +216,7 @@ survey_result %>%
 ```
 Figure 5: Distribution of the parties respondents would vote for
 
-PARTY_OF_INTEREST is a categorical variable and it records which party the participant will vote for if he is eligible to vote in the federal election. The survey result reflects that the respondents who would like to vote for the Liberal Party of Canada occupy the largest proportion of all the respondents. While the respondents who tend to vote for the Conservative Party are the second largest group. This implies that the largest competitor the Conservative Party is facing is the Liberal Party. Only a very small proportion of the respondents support the Green Party or other parties.
+PARTY_OF_INTEREST is a categorical variable and it records which party the participant will vote for if he is eligible to vote in the federal election. The survey result reflects that the respondents who would like to vote for the Liberal Party of Canada occupy the largest proportion of all the respondents. While the respondents who tend to vote for the Conservative Party are the second largest group. This implies that the largest competitor the Conservative Party is facing is the Liberal Party. Only a very small proportion of the respondents support the Green Party or other parties. Note that this result is almost consistent with the results of the 2019 Canadian Federal Election (see link to results in Reference).
 
 # Discussion
 
@@ -284,7 +284,7 @@ The summary and analysis of the result give some important implications to the p
 
 # Weaknesses and Future Steps
 
-Some weaknesses of our sampling method, survey, and analysis:
+## Some weaknesses of our sampling method, survey, and analysis:
 
 - The sampling method we used is Simple Random Sample Without Replacement (SRSWOR). This specific method entails some disadvantages: It is extremely difficult to have a full list of phone numbers of our population, and it is time-consuming to create a list that is as large as possible
 - There could be bias built into our result if our sample size is not large enough, or our sample cannot represent our full population
@@ -292,7 +292,7 @@ Some weaknesses of our sampling method, survey, and analysis:
 - The questions are designed such that respondents can pick only one option, in order to make the creation of the dataset and the analysis more convenient, but this may result in the loss of information
 - The sample size 166 is probably not large enough, thus our data may not be sufficient, the result and analysis based on the dataset may not be accurate and bias could have occurred.
 
-Future steps we could take to resolve the issues:
+## Future steps we could take to resolve the issues:
 
 - If the sample is not representative enough, we should keep collecting observations to get a larger sample, and some additional sampling techniques may be required
 - We could allow respondents to choose more than one options for some questions, in order to get more complete information
@@ -334,7 +334,8 @@ citation("knitr")
   Research in R. In Victoria Stodden, Friedrich Leisch and Roger D.
   Peng, editors, Implementing Reproducible Computational Research.
   Chapman and Hall/CRC. ISBN 978-1466561595
-  
+- Results of the 2019 Canadian federal election. (2020, September 28). 
+  Retrieved October 07, 2020, from https://en.wikipedia.org/wiki/Results_of_the_2019_Canadian_federal_election
 
 
 
